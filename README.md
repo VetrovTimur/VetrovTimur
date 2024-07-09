@@ -1,6 +1,10 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F4007E&random=false&width=435&lines=Welcome+to+my+profile+GitHub)](https://git.io/typing-svg)
 
-<img align="center" alt="GIF" src="./gif/codeTest.gif" width="80%" height="350"  style='margin-bottom: 10px; margin-left: 10%' />
+<div align="center"> 
+  <img alt="GIF" src="./gif/codeTest.gif" width="80%" height="350" />
+</div>
+
+<!-- <img align="center" alt="GIF" src="./gif/codeTest.gif" width="80%" height="350"  style='margin-bottom: 10px; margin-left: 10%' /> -->
 
 
 <h2 align="center">Hello! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm <span style="color:#F4007E">Vetrov Timur </span>!</h2>
@@ -26,7 +30,8 @@
 <div style="font-size: 18px; margin-bottom: 25px; color:#F4007E">👨💻 Frontend Developer </div>
 
 
-🛠️ <span style="color:#F4007E">**Skills:**</span>
+<!-- 🛠️ <span style="color:#F4007E">**Skills:**</span> -->
+$${\color{red}Skills:}$$
 - **Languages:** HTML, CSS, JavaScript, С#
 - **Frameworks:** React JS
 - **Tools:** VS Code, GitHub, Figma, Adobe Photoshop
