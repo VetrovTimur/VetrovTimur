@@ -4,7 +4,7 @@
   <img alt="GIF" src="./gif/codeTest.gif" width="80%" height="350" />
 </div>
 
-<h2 align="center">Hello! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm <span style="color:#f4007e">Vetrov Timur </span>!</h2>
+<h2 align="center">Hello! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm <span style="color:red">Vetrov Timur </span>!</h2>
 
 <blockquote align="center">
         <p>"Learning new things is my hobby</p>
