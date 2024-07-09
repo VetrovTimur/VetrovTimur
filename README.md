@@ -7,7 +7,7 @@
 <h2 align="center">Hello! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm <span style="color:red">Vetrov Timur </span>!</h2>
 
 <blockquote align="center">
-        <p>"Learning new things is my hobby</p>
+        <p style="color:red">"Learning new things is my hobby</p>
         <p>Self-development is my vacation</p>
         <p>Programming is my passion"</p>
 </blockquote>
@@ -27,8 +27,7 @@
 <div style="font-size: 18px; margin-bottom: 25px; color:#F4007E">👨💻 Frontend Developer </div>
 
 
-<!-- 🛠️ <span style="color:red">**Skills:**</span> -->
-🛠️ $${\color{red}Skills:}$$
+🛠️ <span style="color:red">**Skills:**</span>
 - **Languages:** HTML, CSS, JavaScript, С#
 - **Frameworks:** React JS
 - **Tools:** VS Code, GitHub, Figma, Adobe Photoshop
