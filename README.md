@@ -27,7 +27,7 @@
 <div style="font-size: 18px; margin-bottom: 25px; color:#F4007E">👨💻 Frontend Developer </div>
 
 
-<!-- 🛠️ <span style="color:#F4007E">**Skills:**</span> -->
+🛠️ <span style="color:red">**Skills:**</span>
 $${\color{red}Skills:}$$
 - **Languages:** HTML, CSS, JavaScript, С#
 - **Frameworks:** React JS
