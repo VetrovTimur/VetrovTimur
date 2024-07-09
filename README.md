@@ -27,8 +27,8 @@
 <div style="font-size: 18px; margin-bottom: 25px; color:#F4007E">👨💻 Frontend Developer </div>
 
 
-🛠️ <span style="color:red">**Skills:**</span>
-$${\color{red}Skills:}$$
+<!-- 🛠️ <span style="color:red">**Skills:**</span> -->
+🛠️ $${\color{red}Skills:}$$
 - **Languages:** HTML, CSS, JavaScript, С#
 - **Frameworks:** React JS
 - **Tools:** VS Code, GitHub, Figma, Adobe Photoshop
