@@ -130,8 +130,8 @@
 <h1 align="center">
   <span>
   
-  🔎 $\color{#f4007e}{Find}$ $\color{#f4007e}{me}$ $\color{#f4007e}{around}$ $\color{#f4007e}{the}$ $\color{#f4007e}{web}$ 🌎 
-  </span>!
+  🔎 $\color{#f4007e}{Find}$ $\color{#f4007e}{me}$ $\color{#f4007e}{around}$ $\color{#f4007e}{the}$ $\color{#f4007e}{web!}$ 🌎 
+  </span>
 </h1>
 <table align="center" width="100%">
   <tr>
