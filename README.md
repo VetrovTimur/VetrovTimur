@@ -42,7 +42,9 @@
 
 <table>
   <tr>
-    <b>Languages</b>
+    <td colspan="4">
+      <b>Languages</b>
+    </td>
   </tr>
   <tr>
     <td>
@@ -61,17 +63,19 @@
 </table>
 <table>
   <tr>
-    <td><b>Frameworks</b></td>
+    <td>
+      <b>Frameworks</b>
+    </td>
   </tr>
   <tr>
-    <td>
+    <td align="center">
       <img src="./img/icons/Frameworks/react.png" width="30px" />
     </td>
   </tr>
 </table>
 <table>
   <tr>
-    <td colspan="4"><b>Tools</b></td>
+    <td colspan="5"><b>Tools</b></td>
   </tr>
   <tr>
     <td>
@@ -93,7 +97,9 @@
 </table>
 <table>
   <tr>
-    <b>Project builder</b>
+    <td colspan="2">
+      <b>Project builder</b>
+    </td>
   </tr>
   <tr>
     <td>
