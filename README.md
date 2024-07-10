@@ -1,20 +1,24 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F4007E&random=false&width=435&lines=Welcome+to+my+profile+GitHub)](https://git.io/typing-svg)
 
-<div align="center"> 
+<div align="center">
   <img alt="GIF" src="./gif/codeTest.gif" width="80%" height="350" />
 </div>
 
-<h2 align="center">Hello! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm <span style="color:red">Vetrov Timur </span>!</h2>
+<h2 align="center">Hello! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm <span style="color:#f4007e">Vetrov Timur </span>!</h2>
+
+
+$\color{#f4007e}{test}$
 
 <blockquote align="center">
-        <p style="color:red">"Learning new things is my hobby</p>
+        <p>"Learning new things is my hobby</p>
         <p>Self-development is my vacation</p>
         <p>Programming is my passion"</p>
 </blockquote>
 
 ## 🙋‍♂️ <span style="color:#F4007E"> About Me </span>
+
 🚀 <span style="color:#F4007E">Vetrov Timur </span>  
-*Graduated Bachelor \ Magistracy (with honors) - MIREA - Russian University of Technology* <img src="https://emoji.slack-edge.com/T0172CCPGUW/party-blob/d7253707fa13e9ee.gif" width="30"/> 
+*Graduated Bachelor \ Magistracy (with honors) - MIREA - Russian University of Technology* <img src="https://emoji.slack-edge.com/T0172CCPGUW/party-blob/d7253707fa13e9ee.gif" width="30"/>
 <div>
     <p style="margin: 0"> - I love to code, study and try to implement what I have learned in my pet-projects.❤️ </p>
     <p style="margin: 0"> - I like to read books and play sports.📚💪</p>
@@ -22,12 +26,11 @@
     <p style="margin: 0; margin-bottom: 25px"> - I adhere to the position → “movement is life”❗ </p>
 </div>
 
-
-
 <div style="font-size: 18px; margin-bottom: 25px; color:#F4007E">👨💻 Frontend Developer </div>
 
+<!-- 🛠️ <span style="color:#F4007E">**Skills:**</span> -->
+$${\color{red}Skills:}$$
 
-🛠️ <span style="color:red">**Skills:**</span>
 - **Languages:** HTML, CSS, JavaScript, С#
 - **Frameworks:** React JS
 - **Tools:** VS Code, GitHub, Figma, Adobe Photoshop
@@ -35,8 +38,9 @@
 - **UI-testing:** Jest
 
 🛠️ **<span style="color:#F4007E">My development goals:</span>**
-- **Advanced training in front-end technology stacks** 
-- **Exploring the backend technology stack:** 
+
+- **Advanced training in front-end technology stacks**
+- **Exploring the backend technology stack:**
 
 <h3 align="center">🔎<span style="color:#F4007E"> Find me around the web </span>🌎</h3>
 <table align="center" width="100%">
@@ -80,7 +84,6 @@
   </tr>
 </table>
 <hr>
-
 
 ***Информация будет обновляться***
 <img src="https://emoji.slack-edge.com/T0172CCPGUW/party-blob/d7253707fa13e9ee.gif" width="30"/>
