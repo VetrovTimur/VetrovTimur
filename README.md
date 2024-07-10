@@ -4,23 +4,29 @@
   <img alt="GIF" src="./gif/codeTest.gif" width="80%" height="350" />
 </div>
 
-<h2 align="center">Hello! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm <span>
-
-$\color{#f4007e}{Vetrov}$ $\color{#f4007e}{Timur}$ 
-</span>!</h2>
+<h2 align="center">
+  Hello! 
+  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
+  I'm 
+  <span>
+  
+  $\color{#f4007e}{Vetrov}$ $\color{#f4007e}{Timur}$ 
+  </span>!
+</h2>
 
 
 
 
 <blockquote align="center">
-        <p>"Learning new things is my hobby</p>
-        <p>Self-development is my vacation</p>
-        <p>Programming is my passion"</p>
+  <p>"Learning new things is my hobby</p>
+  <p>Self-development is my vacation</p>
+  <p>Programming is my passion"</p>
 </blockquote>
 
-## 🙋‍♂️ <span style='font-size: 16px'> $\color{#f4007e}{About}$ $\color{#f4007e}{Me}$   </span>
 
-🚀 <span style="color:#F4007E">Vetrov Timur </span>  
+## 🙋‍♂️ <span style='font-size: 18px'>  **$\color{#f4007e}{About}$ $\color{#f4007e}{Me}$** </span>
+
+🚀<span>$\color{#f4007e}{Vetrov}$ $\color{#f4007e}{Timur}$</span>  
 *Graduated Bachelor \ Magistracy (with honors) - MIREA - Russian University of Technology* <img src="https://emoji.slack-edge.com/T0172CCPGUW/party-blob/d7253707fa13e9ee.gif" width="30"/>
 <div>
     <p style="margin: 0"> - I love to code, study and try to implement what I have learned in my pet-projects.❤️ </p>
@@ -29,10 +35,10 @@ $\color{#f4007e}{Vetrov}$ $\color{#f4007e}{Timur}$
     <p style="margin: 0; margin-bottom: 25px"> - I adhere to the position → “movement is life”❗ </p>
 </div>
 
-<div style="font-size: 18px; margin-bottom: 25px; color:#F4007E">👨💻 Frontend Developer </div>
+<span >👨💻 $\color{#f4007e}{Frontend}$ $\color{#f4007e}{Developer}$ </span>
 
-<!-- 🛠️ <span style="color:#F4007E">**Skills:**</span> -->
-$${\color{red}Skills:}$$
+🛠️<span style='font-size: 16px'>**$\color{#f4007e}{Skills:}$**</span> 
+
 
 - **Languages:** HTML, CSS, JavaScript, С#
 - **Frameworks:** React JS
@@ -40,7 +46,7 @@ $${\color{red}Skills:}$$
 - **project builder:** Webpack, Gulp
 - **UI-testing:** Jest
 
-🛠️ **<span style="color:#F4007E">My development goals:</span>**
+🛠️<span style='font-size: 16px'>**$\color{#f4007e}{My}$ $\color{#f4007e}{development}$ $\color{#f4007e}{goals:}$**</span> 
 
 - **Advanced training in front-end technology stacks**
 - **Exploring the backend technology stack:**
