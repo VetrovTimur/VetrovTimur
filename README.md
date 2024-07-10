@@ -24,7 +24,7 @@
 </blockquote>
 
 
-## 🙋‍♂️ <span style='font-size:26px'> <strong> **$\color{#f4007e}{About}$ $\color{#f4007e}{Me}$** </strong> </span>
+## 🙋‍♂️<span style='font-size:26px; font-weight: bold'>**$\color{#f4007e}{About}$ $\color{#f4007e}{Me}$**</span>
 
 🚀<span>$\color{#f4007e}{Vetrov}$ $\color{#f4007e}{Timur}$</span>  
 *Graduated Bachelor \ Magistracy (with honors) - MIREA - Russian University of Technology* <img src="https://emoji.slack-edge.com/T0172CCPGUW/party-blob/d7253707fa13e9ee.gif" width="30"/>
