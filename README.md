@@ -121,14 +121,14 @@
   </tr>
 </table>
 
-### 🛠️<span> $\color{#f4007e}{My}$ $\color{#f4007e}{development}$ $\color{#f4007e}{goals:}$ </span> 
+### 🛠️<span>$\color{#f4007e}{My}$ $\color{#f4007e}{development}$ $\color{#f4007e}{goals:}$</span> 
 
 - **Advanced training in front-end technology stacks**
 - **Exploring the backend technology stack:**
 
 <h3 align="center">
 
-🔎$\color{#f4007e}{Find}$ $\color{#f4007e}{me}$ $\color{#f4007e}{around}$ $\color{#f4007e}{the}$ $\color{#f4007e}{web}$🌎
+🔎 $\color{#f4007e}{Find}$ $\color{#f4007e}{me}$ $\color{#f4007e}{around}$ $\color{#f4007e}{the}$ $\color{#f4007e}{web}$ 🌎
 </h3>
 <table align="center" width="100%">
   <tr>
