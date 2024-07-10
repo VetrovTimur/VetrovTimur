@@ -18,7 +18,7 @@ $\color{#f4007e}{Vetrov}$ $\color{#f4007e}{Timur}$
         <p>Programming is my passion"</p>
 </blockquote>
 
-## 🙋‍♂️ <span style="color:#F4007E"> About Me </span>
+## 🙋‍♂️ <span style='font-size: 16px'> $\color{#f4007e}{About}$ $\color{#f4007e}{Me}$   </span>
 
 🚀 <span style="color:#F4007E">Vetrov Timur </span>  
 *Graduated Bachelor \ Magistracy (with honors) - MIREA - Russian University of Technology* <img src="https://emoji.slack-edge.com/T0172CCPGUW/party-blob/d7253707fa13e9ee.gif" width="30"/>
