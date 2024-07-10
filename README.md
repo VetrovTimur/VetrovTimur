@@ -71,7 +71,7 @@
 </table>
 <table>
   <tr>
-    <td><b>Tools</b></td>
+    <td colspan="4"><b>Tools</b></td>
   </tr>
   <tr>
     <td>
