@@ -4,7 +4,7 @@
   <img alt="GIF" src="./gif/codeTest.gif" width="80%" height="350" />
 </div>
 
-<h2 align="center">
+<h1 align="center">
   Hello! 
   <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
   I'm 
@@ -12,7 +12,7 @@
   
   $\color{#f4007e}{Vetrov}$ $\color{#f4007e}{Timur}$ 
   </span>!
-</h2>
+</h1>
 
 
 
