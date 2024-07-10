@@ -125,11 +125,14 @@
 
 - **Advanced training in front-end technology stacks**
 - **Exploring the backend technology stack:**
+<br>
 
-<h3 align="center">
-
-🔎 $\color{#f4007e}{Find}$ $\color{#f4007e}{me}$ $\color{#f4007e}{around}$ $\color{#f4007e}{the}$ $\color{#f4007e}{web}$ 🌎
-</h3>
+<h1 align="center">
+  <span>
+  
+  🔎 $\color{#f4007e}{Find}$ $\color{#f4007e}{me}$ $\color{#f4007e}{around}$ $\color{#f4007e}{the}$ $\color{#f4007e}{web}$ 🌎 
+  </span>!
+</h1>
 <table align="center" width="100%">
   <tr>
     <td align="center">
