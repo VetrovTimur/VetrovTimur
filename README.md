@@ -115,7 +115,7 @@
     <td><b>UI-testing</b></td>
   </tr>
   <tr>
-    <td>
+    <td align="center">
       <img src="./img/icons/UI-testing/jest.png" width="30px" />
     </td>
   </tr>
