@@ -121,7 +121,7 @@
   </tr>
 </table>
 
-### 🛠️<span>**$\color{#f4007e}{My}$ $\color{#f4007e}{development}$ $\color{#f4007e}{goals:}$**</span> 
+### 🛠️<span> $\color{#f4007e}{My}$ $\color{#f4007e}{development}$ $\color{#f4007e}{goals:}$ </span> 
 
 - **Advanced training in front-end technology stacks**
 - **Exploring the backend technology stack:**
