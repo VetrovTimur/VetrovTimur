@@ -139,7 +139,8 @@
       <table align="center" width="100%">
         <tr>
           <td align="center">
-            <img width="250" height="250" src="./img/DeveloperFront.webp">
+            <!-- <img width="250" height="250" src="./img/DeveloperFront.webp"> -->
+            <img width="250" height="250" src="./img/S600xU_2x.png">
           </td>
           <td align="center">
             <table align="center" width="100%">
