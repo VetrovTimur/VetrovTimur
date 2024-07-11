@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F4007E&random=false&width=435&lines=Welcome+to+my+profile+GitHub)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F40649&random=false&width=435&lines=Welcome+to+my+profile+GitHub)](https://git.io/typing-svg)
 
 <div align="center">
   <img alt="GIF" src="./gif/codeTest.gif" width="80%" height="350" />
@@ -10,7 +10,7 @@
   I'm 
   <span>
   
-  $\color{#f4007e}{Vetrov}$ $\color{#f4007e}{Timur}$ 
+  $\color{#f40649}{Vetrov}$ $\color{#f40649}{Timur}$ 
   </span>!
 </h1>
 
@@ -24,9 +24,9 @@
 </blockquote>
 
 
-# 🙋‍♂️<span> $\color{#f4007e}{About}$ $\color{#f4007e}{Me}$</span>
+# 🙋‍♂️<span> $\color{#f40649}{About}$ $\color{#f40649}{Me}$</span>
 
-### 🚀<span>$\color{#f4007e}{Vetrov}$ $\color{#f4007e}{Timur}$</span>  
+### 🚀<span>$\color{#f40649}{Vetrov}$ $\color{#f40649}{Timur}$</span>  
 *Graduated Bachelor \ Magistracy (with honors) - MIREA - Russian University of Technology* <img src="https://emoji.slack-edge.com/T0172CCPGUW/party-blob/d7253707fa13e9ee.gif" width="30"/>
 <div>
     <p style="margin: 0"> - I love to code, study and try to implement what I have learned in my pet-projects.</p>
@@ -35,9 +35,9 @@
     <p style="margin: 0; margin-bottom: 25px"> - I adhere to the position → “movement is life”</p>
 </div>
 
-## <span>👨💻 $\color{#f4007e}{Frontend}$ $\color{#f4007e}{Developer}$ </span>
+## <span>👨💻 $\color{#f40649}{Frontend}$ $\color{#f40649}{Developer}$ </span>
 
-### 🛠️ <span>**$\color{#f4007e}{Skills:}$**</span> 
+### 🛠️ <span>**$\color{#f40649}{Skills:}$**</span> 
 
 
 <table>
@@ -121,7 +121,7 @@
   </tr>
 </table>
 
-### 🛠️ <span>$\color{#f4007e}{My}$ $\color{#f4007e}{development}$ $\color{#f4007e}{goals:}$</span> 
+### 🛠️ <span>$\color{#f40649}{My}$ $\color{#f40649}{development}$ $\color{#f40649}{goals:}$</span> 
 
 - **Advanced training in front-end technology stacks**
 - **Exploring the backend technology stack:**
@@ -130,7 +130,7 @@
 <h1 align="center">
   <span>
   
-  🔎 $\color{#f4007e}{Find}$ $\color{#f4007e}{me}$ $\color{#f4007e}{around}$ $\color{#f4007e}{the}$ $\color{#f4007e}{web!}$ 🌎 
+  🔎 $\color{#f40649}{Find}$ $\color{#f40649}{me}$ $\color{#f40649}{around}$ $\color{#f40649}{the}$ $\color{#f40649}{web!}$ 🌎 
   </span>
 </h1>
 <table align="center" width="100%">
