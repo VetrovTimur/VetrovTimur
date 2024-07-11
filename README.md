@@ -32,7 +32,7 @@
     <p style="margin: 0"> - I love to code, study and try to implement what I have learned in my pet-projects.</p>
     <p style="margin: 0"> - I like to read books and play sports.</p>
     <p style="margin: 0"> - I always set a goal and strive to achieve it.</p>
-    <p style="margin: 0; margin-bottom: 25px"> - I adhere to the position → “movement is life”❗ </p>
+    <p style="margin: 0; margin-bottom: 25px"> - I adhere to the position → “movement is life”</p>
 </div>
 
 ## <span>👨💻 $\color{#f4007e}{Frontend}$ $\color{#f4007e}{Developer}$ </span>
