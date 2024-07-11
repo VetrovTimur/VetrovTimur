@@ -18,9 +18,9 @@
 
 
 <blockquote align="center">
-  <p>"Learning new things is my hobby</p>
-  <p>Self-development is my vacation</p>
-  <p>Programming is my passion"</p>
+  <p>"Learning new things is my hobby.</p>
+  <p>Self-development is my vacation.</p>
+  <p>Programming is my passion!"</p>
 </blockquote>
 
 
@@ -29,15 +29,15 @@
 ### 🚀<span>$\color{#f4007e}{Vetrov}$ $\color{#f4007e}{Timur}$</span>  
 *Graduated Bachelor \ Magistracy (with honors) - MIREA - Russian University of Technology* <img src="https://emoji.slack-edge.com/T0172CCPGUW/party-blob/d7253707fa13e9ee.gif" width="30"/>
 <div>
-    <p style="margin: 0"> - I love to code, study and try to implement what I have learned in my pet-projects.❤️ </p>
-    <p style="margin: 0"> - I like to read books and play sports.📚💪</p>
-    <p style="margin: 0"> - I always set a goal and strive to achieve it.😎 </p>
+    <p style="margin: 0"> - I love to code, study and try to implement what I have learned in my pet-projects.</p>
+    <p style="margin: 0"> - I like to read books and play sports.</p>
+    <p style="margin: 0"> - I always set a goal and strive to achieve it.</p>
     <p style="margin: 0; margin-bottom: 25px"> - I adhere to the position → “movement is life”❗ </p>
 </div>
 
-## <span >👨💻 $\color{#f4007e}{Frontend}$ $\color{#f4007e}{Developer}$ </span>
+## <span>👨💻 $\color{#f4007e}{Frontend}$ $\color{#f4007e}{Developer}$ </span>
 
-### 🛠️ <span>**$\color{#f4007e}{Skills:}$**</span>
+### 🛠️ <span>**$\color{#f4007e}{Skills:}$**</span> 
 
 
 <table>
