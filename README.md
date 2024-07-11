@@ -18,9 +18,31 @@
 
 
 <blockquote align="center">
-  <p>"Learning new things is my hobby.</p>
-  <p>Self-development is my vacation.</p>
-  <p>Programming is my passion!"</p>
+  <p>
+
+  $\color{#FFFFFF}{"}$
+  $\color{#FFFFFF}{Learning}$
+  $\color{#FFFFFF}{new}$ 
+  $\color{#FFFFFF}{things}$ 
+  $\color{#FFFFFF}{is}$ 
+  $\color{#FFFFFF}{my}$ 
+  $\color{#FFFFFF}{hobby.}$  
+  </p>
+  <p>
+
+  $\color{#00A6ED}{Self-development}$
+  $\color{#00A6ED}{is}$
+  $\color{#00A6ED}{my}$
+  $\color{#00A6ED}{vacation.}$
+  </p>
+  <p>
+  
+  $\color{#f40649}{Programming}$
+  $\color{#f40649}{is}$
+  $\color{#f40649}{my}$
+  $\color{#f40649}{passion!}$
+  $\color{#f40649}{"}$
+  </p>
 </blockquote>
 
 
